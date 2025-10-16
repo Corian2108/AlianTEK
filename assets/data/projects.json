@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Catálogo digital que vende por ti",
+    "subtitle": "Desarrollo web + automatización\nProductos siempre disponibles para tus clientes",
+    "description": "Un negocio necesitaba mostrar su catálogo sin depender de WhatsApp. Creamos una web ligera con contacto directo que generó sus primeros pedidos automáticos.",
+    "client": "Demo comercial",
+    "message": "Quiero un catálogo así",
+    "category": "Mini-Web Vendedora Productos",
+    "imgUrl": "assets/img/portfolio/1.png",
+    "waLink": "https://wa.me/593996743228?text=Quiero%20un%20cat%C3%A1logo%20para%20mis%20productos"
+  },
+  {
+    "title": "Landing que convierte visitas en clientes",
+    "subtitle": "Desarrollo web + estrategia de conversión\nIncremento del 30 % en consultas",
+    "description": "Un profesional en capacitaciones necesitaba captar clientes sin invertir en anuncios. Diseñamos una landing con enfoque en beneficios y CTA estratégicos, logrando aumentar las consultas orgánicas.",
+    "client": "Capacitación",
+    "message": "Quiero una landing como esa",
+    "category": "Mini-Web Vendedora Servicios",
+    "imgUrl": "assets/img/portfolio/2.png",
+    "waLink": "https://wa.me/593996743228?text=Quiero%20una%20landing%20que%20venda%20como%20esa"
+  },
+  {
+    "title": "Contenido que atrajo más visitas al local",
+    "subtitle": "Estrategia orgánica + redes sociales\nAumento en tráfico físico",
+    "description": "Creamos contenido visual para destacar productos coleccionables y motivar visitas. Las publicaciones generaron más interacción y nuevos clientes en tienda.",
+    "client": "GKM Toys",
+    "message": "Quiero que mi negocio atraiga más visitas",
+    "category": "Marketing de contenidos",
+    "imgUrl": "assets/img/portfolio/3.png",
+    "waLink": "https://wa.me/593996743228?text=Quiero%20que%20mi%20negocio%20tambien%20atraiga%20m%C3%A1s%20visitas"
+  },
+  {
+    "title": "Redes que generan reservas reales",
+    "subtitle": "Estrategia orgánica + gestión mensual\nIncremento en engagement y mensajes",
+    "description": "Manejamos redes para un centro de paintball local, creando contenido con enfoque en experiencias. Logramos aumentar reservas y consultas por WhatsApp.",
+    "client": "Alkadi Paintball",
+    "message": "Quiero que mis redes también generen reservas",
+    "category": "Gestión de redes sociales",
+    "imgUrl": "assets/img/portfolio/4.png",
+    "waLink": "https://wa.me/593996743228?text=Quiero%20que%20mis%20redes%20tambien%20generen%20reservas"
+  },
+  {
+    "title": "Landing lista para vender desde el día uno",
+    "subtitle": "Web + integración de contacto rápido\nIdeal para negocios físicos",
+    "description": "Una clínica de terápia física necesitaba presencia digital inmediata. Desarrollamos una landing optimizada para WhatsApp y ubicación, ayudándole a recibir sus primeros mensajes de venta el mismo día.",
+    "client": "Clínica de terapia física",
+    "message": "Quiero una web para mi negocio",
+    "category": "Landing para negocios",
+    "imgUrl": "assets/img/portfolio/5.png",
+    "waLink": "https://wa.me/593996743228?text=Quiero%20una%20web%20as%C3%AD%20de%20r%C3%A1pida%20para%20mi%20negocio"
+  },
+  {
+    "title": "Automatización que ahorra tiempo",
+    "subtitle": "Integración web + base de datos\nProcesos 3× más rápidos",
+    "description": "Desarrollamos un sistema demostrativo con base de datos y panel de control para mostrar cómo la automatización puede reducir tareas repetitivas en cualquier negocio.",
+    "client": "Demo interno",
+    "message": "Quiero automatizar mi negocio",
+    "category": "Sistema administrativo / microservicio",
+    "imgUrl": "assets/img/portfolio/6.png",
+    "waLink": "https://wa.me/593996743228?text=Quiero%20automatizar%20mi%20negocio%20como%20ese"
+  }
+]
