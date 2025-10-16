@@ -1,0 +1,8 @@
+#modal {
+  height: -webkit-fill-available;
+}
+
+.closeBtn{
+  height: 1.5rem;
+  margin-inline: 2rem;
+}

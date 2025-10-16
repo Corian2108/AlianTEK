@@ -1,0 +1,13 @@
+.shadowTitle {
+  color: rgb(var(--aliantek-highlight-rgb)) !important;
+  text-shadow: 1px 1px whitesmoke;
+}
+
+.boxSub {
+  color: rgb(var(--aliantek-highlight-rgb)) !important;
+  background-color: whitesmoke;
+}
+
+.alertFeed{
+  background-color: white;
+}

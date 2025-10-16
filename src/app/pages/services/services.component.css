@@ -1,0 +1,7 @@
+.text-muted{
+    text-decoration: none;
+}
+
+.hoverBlue:hover{
+    color: var(--aliantek-highlight) !important;
+}

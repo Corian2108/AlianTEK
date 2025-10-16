@@ -1,0 +1,7 @@
+.routLink{
+    cursor: pointer;
+}
+
+.colorPrimary{
+    color: var(--aliantek-highlight);
+}

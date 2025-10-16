@@ -1,0 +1,7 @@
+section{
+    padding: 0 !important;
+}
+
+a{
+    color: rgb(var(--aliantek-highlight-rgb)) !important;
+}
