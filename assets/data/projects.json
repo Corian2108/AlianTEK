@@ -6,7 +6,7 @@
     "client": "Demo comercial",
     "message": "Quiero un catálogo así",
     "category": "Mini-Web Vendedora Productos",
-    "imgUrl": "assets/img/portfolio/1.png",
+    "imgUrl": "assets/img/portfolio/1.webp",
     "waLink": "https://wa.me/593996743228?text=Quiero%20un%20cat%C3%A1logo%20para%20mis%20productos"
   },
   {
@@ -16,7 +16,7 @@
     "client": "Capacitación",
     "message": "Quiero una landing como esa",
     "category": "Mini-Web Vendedora Servicios",
-    "imgUrl": "assets/img/portfolio/2.png",
+    "imgUrl": "assets/img/portfolio/2.webp",
     "waLink": "https://wa.me/593996743228?text=Quiero%20una%20landing%20que%20venda%20como%20esa"
   },
   {
@@ -26,7 +26,7 @@
     "client": "GKM Toys",
     "message": "Quiero que mi negocio atraiga más visitas",
     "category": "Marketing de contenidos",
-    "imgUrl": "assets/img/portfolio/3.png",
+    "imgUrl": "assets/img/portfolio/3.webp",
     "waLink": "https://wa.me/593996743228?text=Quiero%20que%20mi%20negocio%20tambien%20atraiga%20m%C3%A1s%20visitas"
   },
   {
@@ -36,7 +36,7 @@
     "client": "Alkadi Paintball",
     "message": "Quiero que mis redes también generen reservas",
     "category": "Gestión de redes sociales",
-    "imgUrl": "assets/img/portfolio/4.png",
+    "imgUrl": "assets/img/portfolio/4.webp",
     "waLink": "https://wa.me/593996743228?text=Quiero%20que%20mis%20redes%20tambien%20generen%20reservas"
   },
   {
@@ -46,7 +46,7 @@
     "client": "Clínica de terapia física",
     "message": "Quiero una web para mi negocio",
     "category": "Landing para negocios",
-    "imgUrl": "assets/img/portfolio/5.png",
+    "imgUrl": "assets/img/portfolio/5.webp",
     "waLink": "https://wa.me/593996743228?text=Quiero%20una%20web%20as%C3%AD%20de%20r%C3%A1pida%20para%20mi%20negocio"
   },
   {
@@ -56,7 +56,7 @@
     "client": "Demo interno",
     "message": "Quiero automatizar mi negocio",
     "category": "Sistema administrativo / microservicio",
-    "imgUrl": "assets/img/portfolio/6.png",
+    "imgUrl": "assets/img/portfolio/6.webp",
     "waLink": "https://wa.me/593996743228?text=Quiero%20automatizar%20mi%20negocio%20como%20ese"
   }
 ]
