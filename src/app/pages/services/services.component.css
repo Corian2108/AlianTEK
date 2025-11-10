@@ -1,7 +1,27 @@
-.text-muted{
-    text-decoration: none;
+.text-muted {
+  text-decoration: none;
 }
 
-.hoverBlue:hover{
-    color: var(--aliantek-highlight) !important;
+.hoverBlue:hover {
+  color: var(--aliantek-highlight) !important;
+}
+
+#services {
+  background-color: white;
+}
+
+.before {
+  color: #464646c2;
+  text-decoration: line-through;
+}
+
+.label_price {
+  font-weight: bold;
+  font-size: calc(1.325rem + 0.1vw);
+  margin-inline: 1rem;
+}
+
+.price_cont {
+  display: flex;
+  justify-content: center;
 }

@@ -11,3 +11,20 @@
 .alertFeed{
   background-color: white;
 }
+
+
+#bg_img_contact {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -20;
+}
+
+#contact {
+  position: relative;
+  overflow: hidden;
+  background-color: #7e7e7e63;
+}

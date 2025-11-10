@@ -5,3 +5,7 @@
 .colorPrimary{
     color: var(--aliantek-highlight);
 }
+
+.footer{
+    background-color: white;
+}
